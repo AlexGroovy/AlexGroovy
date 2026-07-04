@@ -66,7 +66,7 @@
 <p align="left">
 <table border="0" cellpadding="10" cellspacing="0" align="left">
   <tr>
-    <td align="center"><a href="https://v8.1c.ru" target="_blank"><img src="https://github.com/Oxotka/Oxotka/blob/main/src/logo1cm.png" width="40" height="40"/></a></td>
+    <td align="center"><a href="https://v8.1c.ru" target="_blank"><img src="https://raw.githubusercontent.com/johnnyshut/.github/main/profile/assets/logo1c.png" width="40" height="40"/></a></td>
     <td align="center"><a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a></td>
     <td align="center"><a href="https://https://cursor.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cursor_logo.svg" width="40" height="40"/></a></td>
    <td align="center"><a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
