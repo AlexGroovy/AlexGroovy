@@ -85,3 +85,4 @@
 <!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=AlexGroovy&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGroovy&hide=TeX&layout=compact)
 -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexGroovy&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AlexGroovy&show_icons=true&include_all_commits=true&theme=tokyonight)
