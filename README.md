@@ -11,7 +11,7 @@
 
 Путь в 1С начался более 10 лет назад со стажировки в небольшом региональном франчайзи. Постепенно вырос от начинающего разработчика до ведущего разработчика направления регламентированного учета. За это время были десятки проектов, множество нестандартных задач, бессонные ночи и немало «особенностей» платформы, которые обычно и становились причиной этих ночей 😄
 ###
-<a href="https://t.me/AlexGroovy" target="_blank">
+<a href="https://t.me/alkon_92" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
 
