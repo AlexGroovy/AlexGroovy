@@ -80,11 +80,3 @@
   </tr>
 </table>
 </p>
-
-<br clear="both">
-
-###
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=AlexGroovy&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=AlexGroovy&show_icons=true&include_all_commits=true&theme=tokyonight)
-
-###
